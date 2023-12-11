@@ -39,8 +39,4 @@ This will generate metrics such as accuracy, precision, recall, and F1 score.
 
 If you find any issues or have improvements to suggest, please feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-[//]: # (Replace [source-link] with the actual link to the dataset.)
